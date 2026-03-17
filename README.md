@@ -69,4 +69,4 @@ This project models that decision explicitly.
 
 ## Status
 
-Portfolio build — active expansion toward multi-layer RAG control systems
+Production-ready controlled AI decision system. Acts when evidence supports it. Refuses when it doesn’t. Escalates when certainty is insufficient.
